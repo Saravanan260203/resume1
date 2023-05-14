@@ -1,0 +1,31 @@
+img{
+    height: 200px;
+    width: 150px;
+    margin-top: 2%;
+   
+    margin-bottom: 0;
+}
+#one{
+    background-color: red;
+    color:white;  
+    padding-left: 1%;
+}
+#skills{
+    background-color:rgb(241, 196, 196);
+
+}
+U{
+    color: RED;
+}
+#left{
+    
+   padding-bottom: 20.5%;
+}
+@media screen and (max-width:1028px){
+
+    #right{
+        padding-bottom:268%;
+    background-color:rgb(241, 196, 196);;
+    
+    }
+}
